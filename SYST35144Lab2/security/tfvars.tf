@@ -1,0 +1,1 @@
+variable "lab2VPC"{}
